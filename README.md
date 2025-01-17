@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umang</h1>
 <h3 align="center">A CSE student from India</h3>
 
-- 🌱 I’m currently learning **Frontend Web Development**
+- 🌱 I’m currently learning **Backend Web Development**
 
 - 📫 How to reach me **umangagarwal257@gmail.com**
 
