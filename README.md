@@ -2,7 +2,6 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=1F96BE&width=535&lines=Hi%2C+I'm+Umang%F0%9F%91%8B;Let's+Connect!"/>
 </div>
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Umangag69)
 
 ![border-seperator](assets/borderseparator.gif)
 
