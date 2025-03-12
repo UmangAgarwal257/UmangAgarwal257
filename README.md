@@ -32,7 +32,7 @@ Building cool stuff, breaking things along the way, and figuring it all out one 
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=linux,vercel&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=linux,vercel,netlify&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,githubactions&theme=dark"></td>
 </tr>
 </table>
