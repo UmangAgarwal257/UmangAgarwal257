@@ -24,7 +24,7 @@ Building cool stuff, breaking things along the way, and figuring it all out one 
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,next" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=javascript,java,python,typescript&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=javascript,java,python,typescript,rust&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Cybersecurity&Cloud</strong></td>
