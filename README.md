@@ -23,7 +23,7 @@ Building cool stuff, breaking things along the way, and figuring it all out one 
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,next,prisma,postgres,supabase" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,next,prisma,postgres,supabase,solana" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=javascript,java,typescript,rust&theme=dark"></td>
 </tr>
 <tr>
