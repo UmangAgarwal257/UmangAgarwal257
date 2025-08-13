@@ -1,5 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=UmangAgarwal257.UmangAgarwal257" />
 
+<br/>
+
 <div align="center">
  
 💻 I'm currently working on SVM and pinocchio
@@ -10,9 +12,26 @@
 
 <h2 align="center">⚒️ Tech Stack</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,ts,react,next,postgres,mongo" />
-</div>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-3C3C3D?style=flat-square&logo=web3dotjs&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Axum](https://img.shields.io/badge/-Axum-3B275F?style=flat-square&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/-Fedora-E95420?style=flat-square&logo=Fedora&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <br/>
 <hr/>
