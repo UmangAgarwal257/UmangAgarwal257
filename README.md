@@ -72,13 +72,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">🐍 My Contributions</h2>
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/UmangAgarwal257/UmangAgarwal257/output/github-snake.svg" />
-  <br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">🏢 Affiliations</h2>
