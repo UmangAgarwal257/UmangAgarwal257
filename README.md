@@ -1,5 +1,14 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=UmangAgarwal257.UmangAgarwal257" />
 
+<p align="right">
+  <a href="https://x.com/umangag6969" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:umangagarwal257@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <br/>
 
 <div align="center">
@@ -30,8 +39,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/-Fedora-E95420?style=flat-square&logo=Fedora&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <br/>
 <hr/>
