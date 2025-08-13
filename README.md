@@ -1,25 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UmangAgarwal257.UmangAgarwal257" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Umang!;" />
-</h1>
-
-<h3 align="center">Rust Engineer</h3>
-<div align="center">
-    <img src="https://static.cdnlogo.com/logos/s/85/solana.svg" width="80" height="80"/>
-</div>
-<br/>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=UmangAgarwal257.UmangAgarwal257" />
 
 <div align="center">
  
 💻 I'm currently working on SVM and pinocchio
 
-</div>
-
-<div align="center"> 
-  <a href="https://x.com/umangag6969" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
-  </a>
 </div>
 
 <hr/>
