@@ -57,8 +57,8 @@
 
 | Project                                                                       | Description                                        | Technologies        |
 | ----------------------------------------------------------------------------- | -------------------------------------------------- | ------------------- |
-| **[ExpenseTrackerBot](https://github.com/UmangAgarwal257/ExpenseTrackerBot)** | Automated expense tracking and management bot      | `Python` `APIs`     |
-| **[waifu-fetch](https://github.com/UmangAgarwal257/waifu-fetch)**             | Anime character fetching tool with API integration | `JavaScript` `APIs` |
+| **[ExpenseTrackerBot](https://github.com/UmangAgarwal257/ExpenseTrackerBot)** | Automated expense tracking and management bot      | `Typescript` `APIs` |
+| **[waifu-fetch](https://github.com/UmangAgarwal257/waifu-fetch)**             | Anime character fetching tool with API integration | `Rust` `APIs`       |
 
 ### Open Source Contributions
 
