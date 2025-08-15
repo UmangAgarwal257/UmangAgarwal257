@@ -1,9 +1,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=UmangAgarwal257.UmangAgarwal257" />
 
 <p align="right">
-  <a href="https://x.com/umangag6969" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
-  </a>
   <a href="mailto:umangagarwal257@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
