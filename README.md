@@ -67,18 +67,6 @@
 | **[ExpenseTrackerBot](https://github.com/UmangAgarwal257/ExpenseTrackerBot)** | Automated expense tracking and management bot      | `Typescript` `APIs` |
 | **[waifu-fetch](https://github.com/UmangAgarwal257/waifu-fetch)**             | Anime character fetching tool with API integration | `Rust` `APIs`       |
 
-### Open Source Contributions
-
-| Contribution                                                                                     | Description                                       | Technologies         |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------- | -------------------- |
-| **[solana-pinocchio-starter](https://github.com/Nagaprasadvr/solana-pinocchio-starter/pull/10)** | Contribution to Solana Pinocchio starter template | `Rust` `Pinocchio`   |
-| **[pinocchio-multisig](https://github.com/NishantCoder108/pinocchio-multisig/pull/1)**           | Multisig wallet implementation improvements       | `Rust` `Pinocchio`   |
-| **[pinocchio-multisig](https://github.com/Turbin3/pinocchio-multisig/pull/5)**                   | Enhanced multisig functionality                   | `Rust` `Pinocchio`   |
-| **[blueshift-dashboard](https://github.com/blueshift-gg/blueshift-dashboard/pull/89)**           | Dashboard improvements and bug fixes              | `React` `TypeScript` |
-
-<br/>
-<hr/>
-
 <hr/>
 
 <h2 align="center">🏢 Affiliations</h2>
