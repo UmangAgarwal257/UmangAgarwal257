@@ -10,7 +10,7 @@
 
 <div align="center">
  
-💻 I'm currently working on SVM and pinocchio
+💻 I'm building production-oriented Solana systems, Rust infrastructure, and autonomous developer tooling
 
 </div>
 
@@ -40,32 +40,21 @@
 <br/>
 <hr/>
 
-<h2 align="center">🚀 Proof of Works</h2>
+<h2 align="center">🚀 Proof Of Work</h2>
 
-### Rust and Solana Programs
-
-| Project                                                                           | Description                                                                                                                                                                                                                   | Technologies                |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| **[http-server](https://github.com/UmangAgarwal257/http-server)**                 | A high-performance HTTP API server built with Axum for interacting with the Solana blockchain. Provides RESTful endpoints to query blockchain data including account information, balances, transactions, and network status. | `Rust` `Axum` `Solana`      |
-| **[VeriFund](https://github.com/UmangAgarwal257/VeriFund)**                       | Decentralized fundraising platform with verification mechanisms                                                                                                                                                               | `Rust` `Anchor` `Solana`    |
-| **[Tickr](https://github.com/UmangAgarwal257/Tickr)**                             | Smart contract-based ticketing system                                                                                                                                                                                         | `Rust` `Anchor` `Solana`    |
-| **[blueshift-programs](https://github.com/UmangAgarwal257/blueshift-programs)**   | All programs of blueshift course (More will be added accordingly)                                                                                                                                                             | `Rust` `Anchor` `Pinocchio` |
-| **[solanaturbine](https://github.com/solana-turbin3/Q2_25_Builder_UmangAgarwal)** | Solana Turbine Q2 2025 Builder Cohort projects                                                                                                                                                                                | `Anchor` `Rust`             |
-
-### Fullstack Applications
-
-| Project                                                                 | Description                                                      | Technologies                    |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------- |
-| **[dark-souls-vrf](https://github.com/UmangAgarwal257/dark-souls-vrf)** | VRF-based gaming application with Dark Souls theme               | `Next.js` `Solana` `VRF`        |
-| **[TicketFlow](https://github.com/UmangAgarwal257/TicketFlow)**         | Complete ticketing management system with blockchain integration | `Next.js` `Solana` `TypeScript` |
-| **[Donezo](https://github.com/UmangAgarwal257/Donezo)**                 | Task management application with productivity features           | `React` `Node.js` `MongoDB`     |
+| Project | Description | Technologies |
+| --- | --- | --- |
+| **[Fade](https://github.com/UmangAgarwal257/fade)** · [Live demo](https://playfade.vercel.app) | A Solana devnet game where players predict which PreStocks trade cheapest or richest versus their mark, commit choices on-chain, and compete in solo or escrowed Versus rounds. | `Next.js` `TypeScript` `Rust` `Solana` |
+| **[Orderly](https://github.com/UmangAgarwal257/orderly)** | An off-chain central limit order book and matching engine with price-time priority, partial fills, cancellations, REST, WebSocket market data, and performance benchmarks. | `Rust` `Axum` `WebSocket` |
+| **[Clanker Agent](https://github.com/UmangAgarwal257/Clanker-agent)** | An autonomous AI coding agent that solves Blueshift Solana challenges across Anchor, Pinocchio, sBPF assembly, and TypeScript clients. | `Rust` `Solana` `Anchor` `Pinocchio` `sBPF` |
+| **[Dark Souls VRF](https://github.com/UmangAgarwal257/dark-souls-vrf)** · [Live demo](https://dark-souls-vrf.vercel.app) | A Dark Souls-themed character generator using MagicBlock VRF for verifiable randomness, rarity tiers, character history, and Solana persistence. | `Next.js` `TypeScript` `Solana` `VRF` |
 
 ### Bots and Tools
 
-| Project                                                                       | Description                                        | Technologies        |
-| ----------------------------------------------------------------------------- | -------------------------------------------------- | ------------------- |
-| **[ExpenseTrackerBot](https://github.com/UmangAgarwal257/ExpenseTrackerBot)** | Automated expense tracking and management bot      | `Typescript` `APIs` |
-| **[waifu-fetch](https://github.com/UmangAgarwal257/waifu-fetch)**             | Anime character fetching tool with API integration | `Rust` `APIs`       |
+| Project | Description | Technologies |
+| --- | --- | --- |
+| **[ExpenseTrackerBot](https://github.com/UmangAgarwal257/ExpenseTrackerBot)** | Automated expense tracking and management bot | `TypeScript` `APIs` |
+| **[waifu-fetch](https://github.com/UmangAgarwal257/waifu-fetch)** | Anime character fetching tool with API integration | `Rust` `APIs` |
 
 <hr/>
 
@@ -73,7 +62,6 @@
 <div align="center">
   
 - **Turbin3 Builders Cohort** - Solana Programs Development  
-- **Turbin3 ADV SVM Cohort** - Solana Virtual Machine Development & Pinocchio  
 - **Solana SuperDev Fellowship** - Superteam India
 
 </div>
